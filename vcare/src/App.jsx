@@ -14,11 +14,11 @@ const App = () => {
         <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center w-full">
           <div className="text-2xl font-bold">HealthCare Co.</div>
           <div className="hidden md:flex space-x-6">
-            <a href="#home" className="hover:text-gray-400">Home</a>
-            <a href="#about" className="hover:text-gray-400">About</a>
-            <a href="#services" className="hover:text-gray-400">Services</a>
-            <a href="#projects" className="hover:text-gray-400">Projects</a>
-            <a href="#contact" className="hover:text-gray-400">Contact</a>
+            <a href="https://otieu.com/4/9411637" className="hover:text-gray-400">Home</a>
+            <a href="https://otieu.com/4/9411637" className="hover:text-gray-400">About</a>
+            <a href="https://otieu.com/4/9411637" className="hover:text-gray-400">Services</a>
+            <a href="https://otieu.com/4/9411637" className="hover:text-gray-400">Projects</a>
+            <a href="https://otieu.com/4/9411637" className="hover:text-gray-400">Contact</a>
           </div>
           <div className="md:hidden flex items-center" onClick={toggleMenu}>
             <button>
@@ -55,11 +55,11 @@ const App = () => {
           } md:hidden bg-gray-800 overflow-hidden transition-all duration-1000 ease-in-out`}
         >
           <div className="flex flex-col items-center space-y-4 py-4">
-            <a href="#home" className="text-white hover:text-gray-400">Home</a>
-            <a href="#about" className="text-white hover:text-gray-400">About</a>
-            <a href="#services" className="text-white hover:text-gray-400">Services</a>
-            <a href="#projects" className="text-white hover:text-gray-400">Projects</a>
-            <a href="#contact" className="text-white hover:text-gray-400">Contact</a>
+            <a href="https://otieu.com/4/9411637" className="text-white hover:text-gray-400">Home</a>
+            <a href="https://otieu.com/4/9411637" className="text-white hover:text-gray-400">About</a>
+            <a href="https://otieu.com/4/9411637" className="text-white hover:text-gray-400">Services</a>
+            <a href="https://otieu.com/4/9411637" className="text-white hover:text-gray-400">Projects</a>
+            <a href="https://otieu.com/4/9411637" className="text-white hover:text-gray-400">Contact</a>
           </div>
         </div>
       </nav>
@@ -73,7 +73,7 @@ const App = () => {
     <div className="lg:w-1/2 text-left mb-8 lg:mb-0">
       <h1 className="text-4xl font-bold mb-4">Welcome to HealthCare Co.</h1>
       <p className="text-xl mb-8">Your Trusted Partner in Quality Healthcare Services</p>
-      <a href="#services" className="bg-green-500 text-white px-6 py-3 rounded-md hover:bg-green-600">Explore Services</a>
+      <a href="https://otieu.com/4/9411637" className="bg-green-500 text-white px-6 py-3 rounded-md hover:bg-green-600">Explore Services</a>
     </div>
 
     {/* Right Content (Image) */}
